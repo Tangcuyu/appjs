@@ -1,0 +1,20 @@
+{
+  "name": "appjs",
+  "homepage": "https://github.com/Tangcuyu/appjs",
+  "authors": [
+    "tangcuyu <joysmshr@126.com>"
+  ],
+  "description": "appjs for appui",
+  "main": "app.js",
+  "keywords": [
+    "appui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
