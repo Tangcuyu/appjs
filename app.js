@@ -726,8 +726,8 @@ var App = function() {
 	return {
 		init: function() {
 			// Init all core functions
-			//uiInit();
-			//uiLayout();
+			uiInit();
+			uiLayout();
 			uiDrawerSubnav();
 			uiCards();
 			uiForms();
